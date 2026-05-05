@@ -2,3 +2,4 @@ After a recent Windows 11 update where Microslop
 apparently made some Xinput changes, specifically to
 the xinput1_4.dll system dll. These updates affected
 several Nucleus Co-op handlers that use a xinput1_4.dll.
+§https://www.splitscreen.me/docs/faq/
